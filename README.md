@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello World 🌎
 
-<!--
-**eliseusalomao/eliseusalomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Eliseu, I'm from Brazil and I'm currently a Systems Analysis and Development Student at FICR.
 
-Here are some ideas to get you started:
+🧐 Interested in Computer Graphics and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write some things on my blog: [eliseusalomao.dev](https://eliseusalomao-dev.vercel.app/)
+
+You can reach me out at:
+
+- LinkedIn: https://linkedin.com/in/eliseu-salomao/
+- E-mail: eliseusalomao.dev@gmail.com
+</br>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
