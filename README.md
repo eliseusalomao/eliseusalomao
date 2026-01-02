@@ -1,8 +1,6 @@
-## Hello World 🌎
+## Hello there 👋
 
-My name is Eliseu, I'm from Brazil and I'm currently a Systems Analysis and Development Student at FICR.
-
-🧐 Interested in Computer Graphics and Web Development
+My name is Eliseu, I’m from Brazil, and I’m a graduate of Systems Analysis and Development.
 
 I write some things on my blog: [eliseusalomao.dev](https://eliseusalomao-dev.vercel.app/)
 
